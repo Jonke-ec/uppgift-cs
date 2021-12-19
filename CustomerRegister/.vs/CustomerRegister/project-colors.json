@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee55df99-6250-4b3c-aecf-2bedd7763312": {
+      "ProjectGuid": "ee55df99-6250-4b3c-aecf-2bedd7763312",
+      "DisplayName": "CustomerManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

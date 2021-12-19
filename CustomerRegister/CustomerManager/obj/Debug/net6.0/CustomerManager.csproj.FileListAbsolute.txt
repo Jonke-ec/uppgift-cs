@@ -1,0 +1,15 @@
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\bin\Debug\net6.0\CustomerManager.exe
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\bin\Debug\net6.0\CustomerManager.deps.json
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\bin\Debug\net6.0\CustomerManager.runtimeconfig.json
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\bin\Debug\net6.0\CustomerManager.dll
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\bin\Debug\net6.0\ref\CustomerManager.dll
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\bin\Debug\net6.0\CustomerManager.pdb
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\obj\Debug\net6.0\CustomerManager.csproj.AssemblyReference.cache
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\obj\Debug\net6.0\CustomerManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\obj\Debug\net6.0\CustomerManager.AssemblyInfoInputs.cache
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\obj\Debug\net6.0\CustomerManager.AssemblyInfo.cs
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\obj\Debug\net6.0\CustomerManager.csproj.CoreCompileInputs.cache
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\obj\Debug\net6.0\CustomerManager.dll
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\obj\Debug\net6.0\ref\CustomerManager.dll
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\obj\Debug\net6.0\CustomerManager.pdb
+C:\WIN21\inlämning-uppgift-cs\CustomerRegister\CustomerManager\obj\Debug\net6.0\CustomerManager.genruntimeconfig.cache
